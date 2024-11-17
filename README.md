@@ -1,1 +1,1 @@
-# o-grpc-cqrs
+# go-grpc-cqrs
