@@ -1,9 +1,9 @@
 package products_test
 
 import (
-	"github.com/yosuke7040/commandservice/command/domain/models/categories"
-	"github.com/yosuke7040/commandservice/command/domain/models/products"
-	"github.com/yosuke7040/commandservice/command/errs"
+	"github.com/yosuke7040/commandservice/domain/models/categories"
+	"github.com/yosuke7040/commandservice/domain/models/products"
+	"github.com/yosuke7040/commandservice/errs"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

@@ -1,8 +1,8 @@
 package products_test
 
 import (
-	"github.com/yosuke7040/commandservice/command/domain/models/products"
-	"github.com/yosuke7040/commandservice/command/errs"
+	"github.com/yosuke7040/commandservice/domain/models/products"
+	"github.com/yosuke7040/commandservice/errs"
 
 	"github.com/google/uuid"
 	. "github.com/onsi/ginkgo/v2"

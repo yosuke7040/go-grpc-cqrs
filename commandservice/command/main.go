@@ -7,7 +7,8 @@ import (
 )
 
 func main() {
+	// fxを起動する
 	fx.New(
-		presen.CommandDepend,
+		presen.CommandDepend, // 依存性を定義する
 	).Run()
 }

@@ -2,7 +2,7 @@ package products
 
 import (
 	"fmt"
-	"github.com/yosuke7040/commandservice/command/errs"
+	"github.com/yosuke7040/commandservice/errs"
 )
 
 // 商品単価を保持する値オブジェクト

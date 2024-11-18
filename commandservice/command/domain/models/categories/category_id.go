@@ -2,7 +2,7 @@ package categories
 
 import (
 	"fmt"
-	"github.com/yosuke7040/commandservice/command/errs"
+	"github.com/yosuke7040/commandservice/errs"
 	"regexp"
 	"unicode/utf8"
 )

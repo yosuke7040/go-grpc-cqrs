@@ -1,0 +1,3 @@
+[submodule "sampledb"]
+	path = sampledb
+	url = https://github.com/fullness-MFurukawa/sampledb.git

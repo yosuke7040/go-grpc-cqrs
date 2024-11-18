@@ -2,8 +2,8 @@ package products
 
 import (
 	"github.com/google/uuid"
-	"github.com/yosuke7040/commandservice/command/domain/models/categories"
-	"github.com/yosuke7040/commandservice/command/errs"
+	"github.com/yosuke7040/commandservice/domain/models/categories"
+	"github.com/yosuke7040/commandservice/errs"
 )
 
 // 商品を表すEntity
