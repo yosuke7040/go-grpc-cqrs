@@ -1,7 +1,7 @@
 package main
 
 import (
-	"commandservice/presen"
+	"github.com/yosuke7040/commandservice/presen"
 
 	"go.uber.org/fx"
 )
